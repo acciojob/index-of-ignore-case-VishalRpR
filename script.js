@@ -23,9 +23,13 @@ function indexOfIgnoreCase(s1, s2) {
 
 		
 	}
+
+
+}
+		return -1;
 }
 
-	return -1;
+	
 
 // // Please do not change the code below
 // const s1 = prompt("Enter s1:");
